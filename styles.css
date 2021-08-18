@@ -84,6 +84,11 @@ nav-brand {
     text-align: right;
 }
 
+.navigation .list-social-media{
+    text-align: left;
+}
+
+
 /** Hero **/
 .hero {
     padding: 2rem;
